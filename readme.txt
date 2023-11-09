@@ -13,6 +13,8 @@ Decimal to percent calculator converts decimals to percentages and whole numbers
 
 Decimal to percent calculator converts decimals to percentages and whole numbers to percentages by multiplying by 100% or shifting the decimal point.
 
+[Decimal to Percent Calculator Homepage](https://www.calculator.io/decimal-to-percent-calculator/ "Decimal to Percent Calculator Homepage")
+
 __Shortcode__
 
 Use the Decimal to Percent Calculator shortcode:
