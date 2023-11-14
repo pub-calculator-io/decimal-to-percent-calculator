@@ -9,41 +9,29 @@ License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Decimal to percent calculator converts decimals to percentages and whole numbers to percentages by multiplying by 100% or shifting the decimal point.
 
-== Description ==
-
-Decimal to percent calculator converts decimals to percentages and whole numbers to percentages by multiplying by 100% or shifting the decimal point.
-
 [https://www.calculator.io/decimal-to-percent-calculator/](https://www.calculator.io/decimal-to-percent-calculator/)
 
-__Decimal to Percent Calculator Shortcode__
+== Usage ==
+
+Add the Decimal to Percent Calculator shortcode to your page, post or sidebar:
 
 `[ci_decimal_to_percent_calculator]`
 
-== Installation ==
+Add the following code to your template where you would like the Decimal to Percent Calculator to appear:
 
-1. Upload the /ci_decimal_to_percent_calculator/ folder to the /wp-content/plugins/ directory.
-2. Activate the [Decimal to Percent Calculator](https://www.calculator.io/decimal-to-percent-calculator/ "Decimal to Percent Calculator Homepage") plugin through the "Plugins" menu in WordPress.
-
-== Decimal to Percent Calculator Usage ==
-
-* Add the shortcode `[ci_decimal_to_percent_calculator]` to your page, post or sidebar.
-* Add the following code: `<?php display_ci_decimal_to_percent_calculator(); ?>` to your template where you would like the Decimal to Percent Calculator to appear.
+`<?php display_ci_decimal_to_percent_calculator(); ?>`
 
 == Screenshots ==
 
 1. The Decimal to Percent Calculator Input Form.
 2. The Decimal to Percent Calculator Calculation Results.
 
-== Libraries used in Decimal to Percent Calculator ==
+== Installation ==
 
-1. https://mathjs.org/
-2. https://katex.org/
-3. https://github.com/aFarkas/lazysizes
-4. https://github.com/RobinHerbots/Inputmask
-5. https://air-datepicker.com/
-6. https://www.chartjs.org/
+1. Upload the Decimal to Percent Calculator /ci_decimal_to_percent_calculator/ folder to the /wp-content/plugins/ directory.
+2. Activate the Decimal to Percent Calculator plugin through the "Plugins" menu in WordPress.
 
 == Changelog ==
 
 = 1.0.0 =
-* Initial release
+* Initial release of Decimal to Percent Calculator
