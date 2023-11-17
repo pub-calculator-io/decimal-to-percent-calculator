@@ -1,6 +1,6 @@
 === Decimal to Percent Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: decimal to percent, convert decimal to percent, decimal to percentage calculator, decimal conversion tool, calculate percent from decimal, online decimal to percent, percentage calculator, decimal into percent, decimal to percent formula, find percentage from decimal
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
