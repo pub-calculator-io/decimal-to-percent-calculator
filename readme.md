@@ -1,4 +1,4 @@
-# Decimal to Percent Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Decimal to Percent Calculator Widget for WordPress
 
 Decimal to percent calculator converts decimals to percentages and whole numbers to percentages by multiplying by 100% or shifting the decimal point.
 
