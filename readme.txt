@@ -1,4 +1,4 @@
-=== Decimal to Percent Calculator by www.calculator.io ===
+=== CI Decimal to percent calculator ===
 Contributors: calculatorio
 Tags: decimal to percent, convert decimal to percent, decimal to percentage calculator, decimal conversion tool, calculate percent from decimal, online decimal to percent, percentage calculator, decimal into percent, decimal to percent formula, find percentage from decimal
 Requires at least: 5.0

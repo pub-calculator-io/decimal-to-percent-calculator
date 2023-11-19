@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Decimal to Percent Calculator by www.calculator.io
+Plugin Name: CI Decimal to percent calculator
 Plugin URI: https://www.calculator.io/decimal-to-percent-calculator/
 Description: Decimal to percent calculator converts decimals to percentages and whole numbers to percentages by multiplying by 100% or shifting the decimal point.
 Version: 1.0.0
