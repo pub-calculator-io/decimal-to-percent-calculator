@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Decimal to Perc
 == Screenshots ==
 
 1. The Decimal to Percent Calculator Input Form.
-2. The Decimal to Percent Calculator Calculation Results.
 
 == Installation ==
 
